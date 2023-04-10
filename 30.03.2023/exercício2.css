@@ -1,0 +1,16 @@
+table,td,th{
+    border: 1px solid rgba(7, 0, 0, 0.116);
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgba(2, 0, 0, 0.644);
+    color: white;
+}
+
+table{
+    width: 300px;
+}
+
+.th1, .td1, .td2,.td3,.td4,.td5{
+    text-align: justify;
+}
+ 
